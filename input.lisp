@@ -1,0 +1,7 @@
+(list 1 (list 2 3) 4)
+(add 2 3)
+(sub 10 4)
+(mul 2 (add 3 4))
+(div (mul 6 2) 3)
+(add (sub 10 5) (mul 2 3))
+(list (add 1 2) (sub 5 3) (mul 2 2))
