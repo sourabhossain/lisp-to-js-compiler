@@ -67,6 +67,3 @@ echo "(add 2 3)" | node index.js
 2. Create a new branch
 3. Make your changes
 4. Submit a pull request
-
-## License
-ISC
